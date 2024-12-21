@@ -84,6 +84,7 @@ dependencies = [
 name = "atrium-poc"
 version = "0.1.0"
 dependencies = [
+ "atrium-api",
  "bsky-sdk",
  "dotenv",
  "tokio",
