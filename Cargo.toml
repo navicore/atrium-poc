@@ -7,4 +7,4 @@ edition = "2021"
 atrium-api = { version = "0.24.9", features = ["tokio", "bluesky", "agent"] }
 bsky-sdk = "0.1.14"
 dotenv = "0.15.0"
-tokio = { version = "1.43",  features = ["macros", "rt-multi-thread"] }
+tokio = { version = "1.44",  features = ["macros", "rt-multi-thread"] }
